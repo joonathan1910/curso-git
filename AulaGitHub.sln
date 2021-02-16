@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AulaGitHub", "AulaGitHub\AulaGitHub.csproj", "{5E974598-2C44-410A-A993-800D2639EA49}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5E974598-2C44-410A-A993-800D2639EA49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E974598-2C44-410A-A993-800D2639EA49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E974598-2C44-410A-A993-800D2639EA49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E974598-2C44-410A-A993-800D2639EA49}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D7CB27CD-C2B4-400E-A4E2-46549C41B07B}
+	EndGlobalSection
+EndGlobal
